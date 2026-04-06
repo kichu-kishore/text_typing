@@ -1,0 +1,443 @@
+{
+  "typingTexts": {
+    "easy": [
+      "The cat sat on the mat and looked at the moon.",
+      "I like to read books in my free time every day.",
+      "She went to the park to play with her dog.",
+      "The sun is bright and the sky is blue today.",
+      "We had a nice lunch at the cafe by the lake.",
+      "My friend lives in a small house near the beach.",
+      "The bird flew over the tree and sang a song.",
+      "He drives a red car to work every morning.",
+      "They love to watch movies on Friday nights.",
+      "The flowers bloom in spring and smell so sweet.",
+      "I drink coffee with milk every single morning.",
+      "The children play games in the yard after school.",
+      "She bakes cookies for her family on weekends.",
+      "The train arrives at the station at noon sharp.",
+      "We walked along the river and saw many fish.",
+      "The dog runs fast and catches the ball quickly.",
+      "I write letters to my grandmother every month.",
+      "The stars shine bright in the night sky above.",
+      "He reads the newspaper while eating his breakfast.",
+      "They swim in the pool during hot summer days.",
+      "The moon is full and bright in the night sky.",
+      "A small kitten was sleeping on the soft sofa.",
+      "We went to the store to buy some fresh fruit.",
+      "The rain fell softly on the green leaves today.",
+      "He likes to play the piano in the evening.",
+      "Our teacher told us a very funny story today.",
+      "She has a beautiful garden with many roses.",
+      "The cake was delicious and very sweet to eat.",
+      "I saw a big rainbow after the storm passed.",
+      "They are planning a trip to the mountains soon."
+    ],
+    "medium": [
+      "The quick brown fox jumps over the lazy dog near the old farmhouse.",
+      "Programming requires patience and dedication to master complex algorithms.",
+      "She carefully examined the ancient manuscript in the library archives.",
+      "The magnificent waterfall cascaded down the rocky mountain slope gracefully.",
+      "Technology continues to transform how we communicate and work together.",
+      "The experienced chef prepared an exquisite five-course meal for guests.",
+      "Scientists discovered a new species of butterfly in the rainforest.",
+      "The architecture of this building reflects classical European influences.",
+      "Musicians performed a beautiful symphony at the concert hall tonight.",
+      "Environmental conservation efforts have increased significantly this decade.",
+      "The entrepreneur launched a successful startup that revolutionized retail.",
+      "Historical documents reveal fascinating details about ancient civilizations.",
+      "The photographer captured stunning images of wildlife in their habitat.",
+      "Modern medicine has made remarkable advances in treating diseases effectively.",
+      "The novelist spent three years researching for her latest bestseller.",
+      "Renewable energy sources are becoming more affordable and efficient now.",
+      "The marathon runner trained intensively for six months before the race.",
+      "Archaeological excavations uncovered artifacts dating back thousands of years.",
+      "The software developer created an innovative application for mobile devices.",
+      "International cooperation is essential for addressing global challenges today.",
+      "The urban planning committee proposed a new park for the downtown area.",
+      "Astronomers spotted a mysterious signal from a distant star system recently.",
+      "The symphony orchestra received a standing ovation for their performance.",
+      "Psychologists study how human behavior is influenced by social environments.",
+      "The renewable energy sector is experiencing rapid technological advancements.",
+      "Architects are designing sustainable buildings with vertical gardens inside.",
+      "The documentary filmmaker traveled to the Arctic to record melting ice.",
+      "Genetic engineering holds the potential to cure many hereditary diseases.",
+      "The museum's new exhibition features interactive digital art installations.",
+      "Small businesses are the backbone of the local economy in many regions."
+    ],
+    "hard": [
+      "Quantum mechanics fundamentally challenges our intuitive understanding of reality and causality.",
+      "The sophisticated cryptographic algorithm utilizes asymmetric key encryption methodologies.",
+      "Neuroplasticity demonstrates the brain's remarkable capacity for reorganization throughout life.",
+      "Thermodynamic equilibrium requires the minimization of Gibbs free energy in closed systems.",
+      "The comprehensive phylogenetic analysis revealed unexpected evolutionary relationships.",
+      "Electromagnetic radiation encompasses a spectrum from radio waves to gamma rays.",
+      "Contemporary philosophical discourse examines the intersection of consciousness and identity.",
+      "The pharmaceutical company's breakthrough therapeutic targets specific molecular pathways.",
+      "Geopolitical tensions have significantly influenced international economic policies recently.",
+      "Astrophysicists hypothesize about the existence of parallel universes and multidimensional space.",
+      "The constitutional amendment underwent rigorous deliberation before ratification occurred.",
+      "Nanotechnology applications in medicine promise revolutionary diagnostic and treatment capabilities.",
+      "The symphonic composition masterfully interweaves baroque and contemporary musical elements.",
+      "Epidemiological studies indicate correlations between lifestyle factors and chronic diseases.",
+      "The Renaissance period witnessed unprecedented advancements in art, science, and philosophy.",
+      "Computational linguistics utilizes machine learning algorithms for natural language processing.",
+      "The archaeological expedition unearthed remarkably preserved artifacts from ancient Mesopotamia.",
+      "Sustainable development requires balancing economic growth with environmental preservation efforts.",
+      "The neurological research explores synaptic plasticity and long-term potentiation mechanisms.",
+      "Anthropological investigations examine cultural evolution across diverse human societies worldwide.",
+      "The pharmaceutical researchers utilized high-throughput screening for drug discovery.",
+      "Macroeconomic theories analyze the relationship between inflation and unemployment rates.",
+      "The conceptual framework for the study incorporates multifaceted sociological perspectives.",
+      "Interdisciplinary collaboration is fundamental for solving complex environmental crises.",
+      "The spacecraft's autonomous navigation system requires sophisticated sensor integration.",
+      "Linguistic diversity reflects the rich tapestry of human history and cultural identity.",
+      "The experimental methodology followed rigorous protocols to ensure statistical validity.",
+      "Quantum entanglement demonstrates non-local correlations between subatomic particles.",
+      "The parliamentary debate focused on the socio-economic implications of the new legislation.",
+      "Biotechnological innovations are revolutionizing agricultural productivity and food security."
+    ]
+  },
+  "themes": {
+    "technology": [
+      "Artificial intelligence is transforming industries and creating new possibilities.",
+      "Cloud computing enables businesses to scale their operations efficiently.",
+      "Cybersecurity measures protect sensitive data from malicious attacks.",
+      "Machine learning algorithms can identify patterns in large datasets.",
+      "Blockchain technology ensures transparent and secure transactions.",
+      "Virtual reality creates immersive experiences for users worldwide.",
+      "Internet of Things connects everyday devices to the network.",
+      "Big data analytics helps companies make informed business decisions.",
+      "Software engineering practices improve code quality and maintainability.",
+      "Mobile applications have revolutionized how we access information."
+    ],
+    "nature": [
+      "The forest ecosystem supports countless species of plants and animals.",
+      "Ocean currents play a crucial role in regulating global climate.",
+      "Mountain ranges form natural barriers between different regions.",
+      "Rainforests contain the greatest biodiversity on our planet.",
+      "Desert landscapes showcase nature's ability to adapt to extremes.",
+      "Coral reefs provide habitat for thousands of marine species.",
+      "Seasonal changes affect wildlife migration patterns significantly.",
+      "Volcanic activity shapes the geological features of our world.",
+      "Rivers carry nutrients that support life along their banks.",
+      "Weather patterns influence agricultural productivity and food supply."
+    ],
+    "science": [
+      "The scientific method relies on observation and experimentation.",
+      "Chemical reactions involve the rearrangement of atomic bonds.",
+      "Physics explains the fundamental forces governing the universe.",
+      "Biology studies living organisms and their interactions.",
+      "Astronomy explores celestial objects beyond our atmosphere.",
+      "Genetics reveals how traits are passed between generations.",
+      "Ecology examines relationships between organisms and environments.",
+      "Mathematics provides the language for describing natural phenomena.",
+      "Chemistry investigates the composition and properties of matter.",
+      "Geology studies the solid Earth and its formation processes."
+    ],
+    "business": [
+      "Strategic planning helps organizations achieve their long-term goals.",
+      "Market research provides insights into consumer preferences.",
+      "Financial management ensures optimal allocation of company resources.",
+      "Human resources develop and maintain a productive workforce.",
+      "Marketing strategies increase brand awareness and customer engagement.",
+      "Supply chain management optimizes the flow of goods and services.",
+      "Quality assurance maintains high standards in product development.",
+      "Business analytics transforms data into actionable intelligence.",
+      "Project management coordinates resources to achieve specific objectives.",
+      "Customer service excellence builds loyalty and repeat business."
+    ],
+    "literature": [
+      "Classic novels explore timeless themes of love and loss.",
+      "Poetry uses rhythm and imagery to evoke emotional responses.",
+      "Drama brings stories to life through dialogue and action.",
+      "Short stories deliver powerful narratives in compact form.",
+      "Literary criticism analyzes texts within cultural contexts.",
+      "Fiction allows authors to create entire imaginary worlds.",
+      "Biographies document the lives of remarkable individuals.",
+      "Essays present arguments and perspectives on various topics.",
+      "Mythology preserves ancient stories and cultural beliefs.",
+      "Contemporary literature reflects modern society and its challenges."
+    ],
+    "space": [
+      "The Milky Way galaxy contains billions of stars and planets.",
+      "Black holes have such strong gravity that even light cannot escape.",
+      "Astronauts on the International Space Station conduct scientific research.",
+      "The James Webb Space Telescope provides deep views into the early universe.",
+      "Mars is often called the Red Planet due to iron oxide on its surface.",
+      "Jupiter's Great Red Spot is a massive storm that has lasted centuries.",
+      "Saturn's rings are composed primarily of ice particles and rocky debris.",
+      "Exoplanets orbiting other stars might harbor conditions for life.",
+      "Nebulae are vast clouds of gas and dust where new stars are born.",
+      "The expansion of the universe is accelerating due to dark energy."
+    ],
+    "food": [
+      "Italian cuisine is famous for its diverse pasta dishes and pizzas.",
+      "Spices like turmeric and cumin add rich flavors to Indian curries.",
+      "Sushi consists of vinegared rice combined with fresh seafood and vegetables.",
+      "French pastries are known for their delicate layers and buttery taste.",
+      "Traditional Mexican tacos are served with corn tortillas and spicy salsa.",
+      "Baking bread at home has become a popular and rewarding hobby.",
+      "Mediterranean diets emphasize fresh vegetables, fruits, and olive oil.",
+      "Chocolate is produced from cocoa beans through a complex process.",
+      "Fermented foods like kimchi and sauerkraut promote gut health.",
+      "Coffee culture has evolved with diverse brewing methods and bean origins."
+    ]
+  },
+  "coding": [
+    "function calculateSum(arr) { return arr.reduce((a, b) => a + b, 0); }",
+    "const fetchData = async (url) => { const res = await fetch(url); return res.json(); }",
+    "class User { constructor(name, email) { this.name = name; this.email = email; } }",
+    "const filter = (arr, fn) => arr.filter(fn);",
+    "export const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:3000';",
+    "const debounce = (fn, delay) => { let timer; return (...args) => { clearTimeout(timer); timer = setTimeout(() => fn(...args), delay); }; };",
+    "interface Props { title: string; onClick: () => void; disabled?: boolean; }",
+    "const sortByKey = (arr, key) => [...arr].sort((a, b) => a[key] - b[key]);",
+    "const useLocalStorage = (key, initial) => { const [val, setVal] = useState(localStorage.getItem(key) || initial); };",
+    "const router = express.Router(); router.get('/api/users', getUsers);",
+    "SELECT id, name, email FROM users WHERE active = true ORDER BY created_at DESC;",
+    "const memoize = (fn) => { const cache = {}; return (arg) => cache[arg] || (cache[arg] = fn(arg)); };",
+    "async function* paginate(url) { let page = 1; while (true) yield await fetch(`${url}?page=${page++}`); }",
+    "const pipe = (...fns) => (x) => fns.reduce((acc, fn) => fn(acc), x);",
+    "const deepClone = (obj) => JSON.parse(JSON.stringify(obj));",
+    "def bubble_sort(arr): n = len(arr); for i in range(n): for j in range(0, n-i-1): if arr[j] > arr[j+1]: arr[j], arr[j+1] = arr[j+1], arr[j]",
+    "import pandas as pd; df = pd.read_csv('data.csv'); print(df.groupby('category').mean());",
+    "def calculate_fibonacci(n): a, b = 0, 1; for _ in range(n): a, b = b, a + b; return a",
+    "with open('file.txt', 'r') as f: content = f.read(); words = content.split()",
+    "<html><head><title>My Page</title></head><body><h1>Hello World</h1></body></html>",
+    "const observer = new IntersectionObserver((entries) => { entries.forEach(entry => console.log(entry.isIntersecting)); });",
+    "git commit -m 'Initial commit' && git push origin main",
+    "docker build -t my-app . && docker run -p 3000:3000 my-app"
+  ],
+  "stories": {
+    "adventure": [
+      "The explorer ventured deep into the uncharted jungle, guided only by an ancient map.",
+      "Climbing the treacherous mountain, she knew the summit held secrets worth discovering.",
+      "The ship sailed through stormy seas, its crew determined to reach the legendary island.",
+      "He discovered a hidden cave behind the waterfall, filled with mysterious artifacts.",
+      "The expedition team crossed the vast desert, searching for the lost city of gold.",
+      "Through dense fog, the adventurer spotted the ruins of an ancient civilization.",
+      "Racing against time, they decoded the final clue to find the hidden treasure.",
+      "The brave knight entered the dragon's lair, ready to face his greatest challenge."
+    ],
+    "mystery": [
+      "The detective examined the crime scene, noting every detail that others had missed.",
+      "A cryptic message arrived at midnight, leading her down a dangerous path.",
+      "The old mansion held secrets that had been buried for over a century.",
+      "Following the trail of clues, he realized the culprit was someone unexpected.",
+      "The locked room mystery puzzled even the most experienced investigators.",
+      "She discovered that the painting contained a hidden map to solve the case.",
+      "The witness's testimony revealed inconsistencies that changed everything.",
+      "Behind the bookshelf, a secret passage led to answers long sought after."
+    ],
+    "scifi": [
+      "The spaceship emerged from hyperspace near an unexplored planetary system.",
+      "Artificial intelligence had evolved beyond human comprehension in this future world.",
+      "The colony on Mars faced an unexpected threat from beneath the red surface.",
+      "Time travel technology existed, but its use was strictly regulated by authorities.",
+      "The android questioned its own existence and what it meant to be alive.",
+      "Humanity's first contact with alien life changed everything we knew.",
+      "In the virtual reality world, the boundaries between real and digital blurred.",
+      "The scientist discovered a way to harness energy from parallel dimensions."
+    ],
+    "aesops-fables": [
+      "Once upon a time, a fox was walking through the forest when he spotted a beautiful bunch of grapes hanging from a vine. The grapes looked ripe and juicy, and the fox's mouth began to water. He jumped and jumped, trying to reach them, but they were just too high. Finally, exhausted, he walked away saying, 'Those grapes are probably sour anyway.' This tale teaches us that it is easy to despise what you cannot have.",
+      "A grasshopper spent the warm months singing while the ants worked hard storing food. When winter came, the hungry grasshopper begged for food, but the ants said he should have planned ahead. The moral reminds us to prepare for times of need.",
+      "A tortoise and a hare decided to race. The hare, confident in his speed, took a nap. Meanwhile, the slow and steady tortoise kept moving forward and won the race. Persistence and consistency can overcome natural talent when that talent becomes complacent."
+    ],
+    "baseball-rules": [
+      "Baseball is played between two teams of nine players each. The game consists of nine innings, with each team batting and fielding in each inning. The batting team tries to score runs by hitting the ball and running around four bases arranged in a diamond shape. The fielding team tries to prevent runs by catching the ball or tagging runners out.",
+      "A batter gets three strikes before being called out. Four balls result in a walk to first base. The pitcher throws from the mound sixty feet and six inches from home plate. A home run occurs when the ball is hit over the outfield fence in fair territory.",
+      "The defensive positions include pitcher, catcher, first baseman, second baseman, third baseman, shortstop, and three outfielders. Each position requires specific skills and plays a vital role in preventing runs from scoring."
+    ],
+    "space-cowboys": [
+      "In the distant future, space cowboys roamed the galaxy in search of adventure and fortune. Their ships were fast, their aim was true, and their courage was legendary. They protected frontier colonies from space pirates and helped settlers establish new homes among the stars.",
+      "Captain Maria Cruz piloted her ship through the asteroid belt, dodging debris with practiced ease. Her crew of space cowboys had a reputation for taking the jobs no one else would touch. This mission to rescue colonists from a dying outpost was no different.",
+      "The dusty cantina on Mars Station Seven served as a meeting place for space cowboys between missions. Here, legends were born and stories were shared about daring rescues and impossible escapes across the cosmos."
+    ],
+    "wizard-of-oz": [
+      "Dorothy lived in Kansas with her Uncle Henry and Aunt Em. One day, a cyclone struck the farmhouse and carried Dorothy and her dog Toto far away to a magical land. When the house landed, it fell upon the Wicked Witch of the East, and Dorothy found herself in a strange and wonderful place.",
+      "Following the yellow brick road, Dorothy met the Scarecrow who wanted a brain, the Tin Man who wanted a heart, and the Cowardly Lion who wanted courage. Together they journeyed to the Emerald City to meet the great and powerful Wizard of Oz.",
+      "The Wizard turned out to be an ordinary man behind a curtain, but he taught Dorothy and her friends that what they sought was within them all along. Dorothy clicked her ruby slippers three times and returned home to Kansas."
+    ],
+    "fantasy": [
+      "The ancient wizard cast a powerful spell to protect the hidden kingdom.",
+      "A young blacksmith discovered he was the heir to a legendary throne.",
+      "The mystical forest was home to talking animals and enchanted trees.",
+      "Following the prophecy, the hero set out to recover the lost amulet.",
+      "The dragon guarded the mountain peak, protecting its hoard of treasure.",
+      "In the hidden city, magic was used for everything from cooking to travel.",
+      "The mythical creatures emerged from the shadows during the full moon.",
+      "She found a magical portal hidden behind the waterfall in the cave."
+    ]
+  },
+  "games": {
+    "wordRain": [
+      "apple", "banana", "cherry", "dragon", "elephant", "flower", "garden", "house",
+      "island", "jungle", "kitchen", "lemon", "mountain", "notebook", "orange", "piano",
+      "queen", "river", "sunset", "tiger", "umbrella", "village", "window", "yellow",
+      "zebra", "anchor", "bridge", "castle", "desert", "eagle", "forest", "guitar",
+      "harbor", "imagine", "journey", "kingdom", "lantern", "mystery", "nature", "ocean",
+      "paradise", "question", "rainbow", "silence", "thunder", "universe", "vacation", "wisdom",
+      "explore", "freedom", "gravity", "harmony", "inspire", "justice", "knowledge", "library",
+      "machine", "network", "operate", "pattern", "quality", "refresh", "science", "texture",
+      "active", "bright", "clever", "diamond", "energy", "future", "glory", "health",
+      "impact", "joyful", "kinetic", "logic", "memory", "native", "online", "pixels",
+      "quantum", "remote", "status", "theory", "unique", "values", "wizard", "xenon",
+      "yield", "zenith", "ability", "balance", "create", "design", "evolve", "focus"
+    ],
+    "speedChallenge": [
+      "The quick fox jumps over the lazy brown dog in the meadow.",
+      "Pack my box with five dozen liquor jugs for the party.",
+      "How vexingly quick daft zebras jump through the hoop!",
+      "The five boxing wizards jump quickly at dawn every day.",
+      "Sphinx of black quartz, judge my vow carefully today.",
+      "Two driven jocks help fax my big quiz answers now.",
+      "The jay, pig, fox, zebra and my wolves quack tonight!",
+      "Crazy Frederick bought many very exquisite opal jewels.",
+      "We promptly judged antique ivory buckles for the next prize.",
+      "A mad boxer shot a quick, gloved jab to the jaw."
+    ],
+    "numberRush": [
+      "1234567890", "9876543210", "1357924680", "2468013579", "1122334455",
+      "9988776655", "1029384756", "5647382910", "1111222233", "4444555566",
+      "7777888899", "0000111122", "3698521470", "7412589630", "9517538264",
+      "8642097531", "1593572684", "7539514862", "9513578264", "3571592684",
+      "123 456 7890", "987 654 3210", "111 222 3333", "444 555 6666",
+      "789 012 3456", "321 654 9870", "159 357 4682", "862 951 7534"
+    ],
+    "quoteRace": [
+      "The only way to do great work is to love what you do.",
+      "Innovation distinguishes between a leader and a follower.",
+      "Stay hungry, stay foolish, and never stop learning.",
+      "Life is what happens when you're busy making other plans.",
+      "The future belongs to those who believe in their dreams.",
+      "Success is not final, failure is not fatal: courage counts.",
+      "Be the change that you wish to see in the world.",
+      "In the middle of difficulty lies opportunity for growth.",
+      "The best time to plant a tree was twenty years ago.",
+      "Knowledge speaks, but wisdom listens to understand.",
+      "Imagination is more important than knowledge itself.",
+      "The only thing we have to fear is fear itself.",
+      "To be yourself in a world that is constantly trying to change you is the greatest accomplishment.",
+      "It does not matter how slowly you go as long as you do not stop.",
+      "The journey of a thousand miles begins with a single step."
+    ]
+  },
+  "practice": {
+    "homeRow": [
+      "asdf jkl; asdf jkl; asdf jkl;",
+      "fjfj dkdk slsl a;a; fjdk sla;",
+      "fads lads fads lads fads lads",
+      "ask dad sad lad ask dad sad lad",
+      "fall dall sall all fall dall sall",
+      "flask flask flask flask flask",
+      "salad salad salad salad salad",
+      "alfa alfa alfa alfa alfa alfa"
+    ],
+    "topRow": [
+      "qwer tyui op qwer tyui op",
+      "quit quit quit quit quit quit",
+      "were were were were were were",
+      "type type type type type type",
+      "your your your your your your",
+      "true true true true true true",
+      "power power power power power",
+      "quiet quiet quiet quiet quiet"
+    ],
+    "bottomRow": [
+      "zxcv bnm zxcv bnm zxcv bnm",
+      "zero zero zero zero zero zero",
+      "next next next next next next",
+      "come come come come come come",
+      "move move move move move move",
+      "zone zone zone zone zone zone",
+      "calm calm calm calm calm calm",
+      "verb verb verb verb verb verb"
+    ],
+    "numbers": [
+      "1234 5678 90 1234 5678 90",
+      "1111 2222 3333 4444 5555",
+      "6666 7777 8888 9999 0000",
+      "1357 2468 9 1357 2468 9",
+      "10 20 30 40 50 60 70 80 90",
+      "100 200 300 400 500 600",
+      "11 22 33 44 55 66 77 88 99",
+      "123 456 789 012 345 678"
+    ],
+    "punctuation": [
+      "Hello, world! How are you today?",
+      "Yes, I agree. That's a great idea!",
+      "Wait... What? Are you serious?",
+      "The price is $99.99 (on sale).",
+      "Email: test@example.com",
+      "Visit https://www.example.com today!",
+      "He said, \"Hello!\" She replied, \"Hi!\"",
+      "Items needed: bread, milk, eggs."
+    ],
+    "commonWords": [
+      "the and you that have for not with this but",
+      "from they which their what there been have will",
+      "would about could people than first water been",
+      "more write like time very when come your just",
+      "know take people into year good some them see",
+      "other than then now look only come its over",
+      "think also back after use two how our work",
+      "way even new want because any these give day"
+    ],
+    "sentences": [
+      "The quick brown fox jumps over the lazy dog.",
+      "Pack my box with five dozen liquor jugs.",
+      "How vexingly quick daft zebras jump!",
+      "The five boxing wizards jump quickly.",
+      "Sphinx of black quartz, judge my vow.",
+      "Two driven jocks help fax my big quiz.",
+      "The jay, pig, fox, zebra and wolves quack!",
+      "Crazy Frederick bought exquisite jewels."
+    ],
+    "paragraphs": [
+      "Learning to type efficiently is one of the most valuable skills you can develop in today's digital world. With practice and dedication, anyone can improve their typing speed and accuracy significantly.",
+      "The modern keyboard layout was designed in the 1870s and has remained largely unchanged since then. Understanding the key positions helps develop muscle memory for faster typing.",
+      "Touch typing involves using all ten fingers without looking at the keyboard. This technique allows typists to focus on the content they are creating rather than the mechanics of typing.",
+      "Regular practice sessions of fifteen to thirty minutes daily can lead to remarkable improvements in typing proficiency within just a few weeks of consistent effort."
+    ],
+    "advanced": [
+      "The implementation of asynchronous JavaScript promises enables efficient handling of concurrent operations.",
+      "Quantum computing leverages superposition and entanglement to perform calculations exponentially faster.",
+      "Machine learning models require extensive training data to achieve accurate predictions and classifications.",
+      "The architectural design patterns facilitate maintainable and scalable software development practices."
+    ],
+    "professional": {
+      "data-entry": [
+        "ID: 98273-X, Qty: 45, Price: 12.99, Date: 2023-10-12, Status: Shipped",
+        "Customer: Alice Johnson, Phone: 555-0123, Zip: 90210, Order: #A1B2C3",
+        "Product_Code: ZK-99, Batch: 004, Temp: 22.5C, Pressure: 1013hPa",
+        "Record: 001, Field_A: 450.00, Field_B: 125.50, Total: 575.50",
+        "SKU: 445-998-332, Loc: WH-B4, Bin: 12, Level: 3",
+        "EmployeeID: 4492, Dept: Marketing, Salary: 75000, Joined: 2022-05-15",
+        "Project: Apollo-11, Budget: 500000.00, Phase: Development, Health: Green",
+        "TaskID: T-800, Priority: High, Assignee: Sarah Connor, Due: 1984-05-12"
+      ],
+      "medical": [
+        "Patient exhibits symptoms of acute rhinosinusitis with peripheral edema.",
+        "Pharmacological intervention required for hypertension and hyperlipidemia.",
+        "Radiological findings indicate a hairline fracture in the left distal radius.",
+        "Diagnostic laparoscopy confirmed the presence of endometriosis in the pelvis.",
+        "Administer 500mg of amoxicillin every eight hours for ten consecutive days."
+      ],
+      "legal": [
+        "The defendant shall indemnify and hold harmless the plaintiff from all claims.",
+        "Pursuant to article seven, subsection b, the contract is hereby terminated.",
+        "The intellectual property rights remain exclusive to the licensor in perpetuity.",
+        "This non-disclosure agreement is binding upon all parties and their successors.",
+        "The court finds the testimony of the expert witness to be highly credible."
+      ],
+      "business": [
+        "Our quarterly revenue projections indicate substantial growth across all verticals.",
+        "Strategic partnerships and operational efficiencies have improved EBITDA margins.",
+        "Market analysis reveals emerging opportunities in the Asia-Pacific region.",
+        "The board recommends accelerating our digital transformation initiatives.",
+        "The merger integration is progressing ahead of schedule with synergy targets exceeded."
+      ]
+    }
+  }
+}
